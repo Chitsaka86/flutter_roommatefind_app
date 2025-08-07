@@ -1,0 +1,13 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/ios/Flutter/Flutter.framework
+**/pubspec.lock
+
+# Node.js
+**/node_modules/
+**/.env
+
+# General
+.DS_Store
+.env
