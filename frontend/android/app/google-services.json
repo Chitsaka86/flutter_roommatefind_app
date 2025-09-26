@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089921934378",
+    "project_id": "roomy-99a5f",
+    "storage_bucket": "roomy-99a5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089921934378:android:131667c58077ab0fa2cf53",
+        "android_client_info": {
+          "package_name": "com.michelle.roomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089921934378-dukckn90p8umssl9uap608snot72pl6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAH9ksdHjH5jmwW_Y45u2D_ND3heUJbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089921934378-dukckn90p8umssl9uap608snot72pl6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
